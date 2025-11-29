@@ -1,0 +1,54 @@
+
+echo "{"id": "C-Z-BIG", "command": "create1", "sample": "Z-BIG", "sample_count": 10, "sample_size": 100000000, "sample_random": false, "time": 4.460000, "io": 224320000}
+{"id": "R-Z-BIG", "command": "extract", "sample": "Z-BIG", "sample_count": 10, "sample_size": 100000000, "sample_random": false, "time": 5.980000, "io": 167190000}
+{"id": "U-Z-BIG", "command": "create2", "sample": "Z-BIG", "sample_count": 10, "sample_size": 100000000, "sample_random": false, "time": 17.620000, "io": 56770000}
+{"id": "D-Z-BIG", "command": "delete", "sample": "Z-BIG", "sample_count": 10, "sample_size": 100000000, "sample_random": false, "time": 2.540000, "io": 393290000}
+{"id": "C-R-BIG", "command": "create1", "sample": "R-BIG", "sample_count": 10, "sample_size": 100000000, "sample_random": true, "time": 15.910000, "io": 62850000}
+{"id": "R-R-BIG", "command": "extract", "sample": "R-BIG", "sample_count": 10, "sample_size": 100000000, "sample_random": true, "time": 5.730000, "io": 174570000}
+{"id": "U-R-BIG", "command": "create2", "sample": "R-BIG", "sample_count": 10, "sample_size": 100000000, "sample_random": true, "time": 18.650000, "io": 53610000}
+{"id": "D-R-BIG", "command": "delete", "sample": "R-BIG", "sample_count": 10, "sample_size": 100000000, "sample_random": true, "time": 1.940000, "io": 515740000}
+{"id": "C-Z-MEDIUM", "command": "create1", "sample": "Z-MEDIUM", "sample_count": 1000, "sample_size": 1000000, "sample_random": false, "time": 4.780000, "io": 209080000}
+{"id": "R-Z-MEDIUM", "command": "extract", "sample": "Z-MEDIUM", "sample_count": 1000, "sample_size": 1000000, "sample_random": false, "time": 3.740000, "io": 267100000}
+{"id": "U-Z-MEDIUM", "command": "create2", "sample": "Z-MEDIUM", "sample_count": 1000, "sample_size": 1000000, "sample_random": false, "time": 18.670000, "io": 53560000}
+{"id": "D-Z-MEDIUM", "command": "delete", "sample": "Z-MEDIUM", "sample_count": 1000, "sample_size": 1000000, "sample_random": false, "time": 2.040000, "io": 490600000}
+{"id": "C-R-MEDIUM", "command": "create1", "sample": "R-MEDIUM", "sample_count": 1000, "sample_size": 1000000, "sample_random": true, "time": 12.220000, "io": 81810000}
+{"id": "R-R-MEDIUM", "command": "extract", "sample": "R-MEDIUM", "sample_count": 1000, "sample_size": 1000000, "sample_random": true, "time": 5.390000, "io": 185680000}
+{"id": "U-R-MEDIUM", "command": "create2", "sample": "R-MEDIUM", "sample_count": 1000, "sample_size": 1000000, "sample_random": true, "time": 15.730000, "io": 63560000}
+{"id": "D-R-MEDIUM", "command": "delete", "sample": "R-MEDIUM", "sample_count": 1000, "sample_size": 1000000, "sample_random": true, "time": 3.270000, "io": 305800000}
+{"id": "C-Z-SMALL", "command": "create1", "sample": "Z-SMALL", "sample_count": 10000, "sample_size": 10000, "sample_random": false, "time": 5.040000, "io": 19850000}
+{"id": "R-Z-SMALL", "command": "extract", "sample": "Z-SMALL", "sample_count": 10000, "sample_size": 10000, "sample_random": false, "time": 0.860000, "io": 116560000}
+{"id": "U-Z-SMALL", "command": "create2", "sample": "Z-SMALL", "sample_count": 10000, "sample_size": 10000, "sample_random": false, "time": 16.380000, "io": 6110000}
+{"id": "D-Z-SMALL", "command": "delete", "sample": "Z-SMALL", "sample_count": 10000, "sample_size": 10000, "sample_random": false, "time": 1.890000, "io": 52830000}
+{"id": "C-R-SMALL", "command": "create1", "sample": "R-SMALL", "sample_count": 10000, "sample_size": 10000, "sample_random": true, "time": 5.650000, "io": 17710000}
+{"id": "R-R-SMALL", "command": "extract", "sample": "R-SMALL", "sample_count": 10000, "sample_size": 10000, "sample_random": true, "time": 0.920000, "io": 109280000}
+{"id": "U-R-SMALL", "command": "create2", "sample": "R-SMALL", "sample_count": 10000, "sample_size": 10000, "sample_random": true, "time": 15.110000, "io": 6620000}
+{"id": "D-R-SMALL", "command": "delete", "sample": "R-SMALL", "sample_count": 10000, "sample_size": 10000, "sample_random": true, "time": 1.950000, "io": 51170000}" > Borgbenchcsv.txt
+
+ 51170000}"" > Borgbench.csv
+echo "echo "echo "{"id": "C-Z-BIG", "command": "create1", "sample": "Z-BIG", "sample_count": 10, "sample_size": 100000000, "sample_random": false, "time": 4.460000, "io": 224320000}
+{"id": "R-Z-BIG", "command": "extract", "sample": "Z-BIG", "sample_count": 10, "sample_size": 100000000, "sample_random": false, "time": 5.980000, "io": 167190000}
+{"id": "U-Z-BIG", "command": "create2", "sample": "Z-BIG", "sample_count": 10, "sample_size": 100000000, "sample_random": false, "time": 17.620000, "io": 56770000}
+{"id": "D-Z-BIG", "command": "delete", "sample": "Z-BIG", "sample_count": 10, "sample_size": 100000000, "sample_random": false, "time": 2.540000, "io": 393290000}
+{"id": "C-R-BIG", "command": "create1", "sample": "R-BIG", "sample_count": 10, "sample_size": 100000000, "sample_random": true, "time": 15.910000, "io": 62850000}
+{"id": "R-R-BIG", "command": "extract", "sample": "R-BIG", "sample_count": 10, "sample_size": 100000000, "sample_random": true, "time": 5.730000, "io": 174570000}
+{"id": "U-R-BIG", "command": "create2", "sample": "R-BIG", "sample_count": 10, "sample_size": 100000000, "sample_random": true, "time": 18.650000, "io": 53610000}
+{"id": "D-R-BIG", "command": "delete", "sample": "R-BIG", "sample_count": 10, "sample_size": 100000000, "sample_random": true, "time": 1.940000, "io": 515740000}
+{"id": "C-Z-MEDIUM", "command": "create1", "sample": "Z-MEDIUM", "sample_count": 1000, "sample_size": 1000000, "sample_random": false, "time": 4.780000, "io": 209080000}
+{"id": "R-Z-MEDIUM", "command": "extract", "sample": "Z-MEDIUM", "sample_count": 1000, "sample_size": 1000000, "sample_random": false, "time": 3.740000, "io": 267100000}
+{"id": "U-Z-MEDIUM", "command": "create2", "sample": "Z-MEDIUM", "sample_count": 1000, "sample_size": 1000000, "sample_random": false, "time": 18.670000, "io": 53560000}
+{"id": "D-Z-MEDIUM", "command": "delete", "sample": "Z-MEDIUM", "sample_count": 1000, "sample_size": 1000000, "sample_random": false, "time": 2.040000, "io": 490600000}
+{"id": "C-R-MEDIUM", "command": "create1", "sample": "R-MEDIUM", "sample_count": 1000, "sample_size": 1000000, "sample_random": true, "time": 12.220000, "io": 81810000}
+{"id": "R-R-MEDIUM", "command": "extract", "sample": "R-MEDIUM", "sample_count": 1000, "sample_size": 1000000, "sample_random": true, "time": 5.390000, "io": 185680000}
+{"id": "U-R-MEDIUM", "command": "create2", "sample": "R-MEDIUM", "sample_count": 1000, "sample_size": 1000000, "sample_random": true, "time": 15.730000, "io": 63560000}
+{"id": "D-R-MEDIUM", "command": "delete", "sample": "R-MEDIUM", "sample_count": 1000, "sample_size": 1000000, "sample_random": true, "time": 3.270000, "io": 305800000}
+{"id": "C-Z-SMALL", "command": "create1", "sample": "Z-SMALL", "sample_count": 10000, "sample_size": 10000, "sample_random": false, "time": 5.040000, "io": 19850000}
+{"id": "R-Z-SMALL", "command": "extract", "sample": "Z-SMALL", "sample_count": 10000, "sample_size": 10000, "sample_random": false, "time": 0.860000, "io": 116560000}
+{"id": "U-Z-SMALL", "command": "create2", "sample": "Z-SMALL", "sample_count": 10000, "sample_size": 10000, "sample_random": false, "time": 16.380000, "io": 6110000}
+{"id": "D-Z-SMALL", "command": "delete", "sample": "Z-SMALL", "sample_count": 10000, "sample_size": 10000, "sample_random": false, "time": 1.890000, "io": 52830000}
+{"id": "C-R-SMALL", "command": "create1", "sample": "R-SMALL", "sample_count": 10000, "sample_size": 10000, "sample_random": true, "time": 5.650000, "io": 17710000}
+{"id": "R-R-SMALL", "command": "extract", "sample": "R-SMALL", "sample_count": 10000, "sample_size": 10000, "sample_random": true, "time": 0.920000, "io": 109280000}
+{"id": "U-R-SMALL", "command": "create2", "sample": "R-SMALL", "sample_count": 10000, "sample_size": 10000, "sample_random": true, "time": 15.110000, "io": 6620000}
+{"id": "D-R-SMALL", "command": "delete", "sample": "R-SMALL", "sample_count": 10000, "sample_size": 10000, "sample_random": true, "time": 1.950000, "io":" >>
+
+
+
